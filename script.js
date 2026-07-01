@@ -1,4 +1,4 @@
-var key = 'bc200602aemsh7690c599f7552f2p106393jsn3de4b198294f';
+var key = config.apiKey;
 var host = 'weatherapi-com.p.rapidapi.com';
 
 function setText(id, text) {
